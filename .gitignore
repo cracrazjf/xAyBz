@@ -243,3 +243,18 @@ mlruns/
 outputs/
 multirun/
 .hydra/
+
+# Data
+data/
+
+# Logs
+logs/
+
+# Models
+models/
+
+# tokenizer files
+tokenizer/
+
+# checkpoints
+xaybz-2022/

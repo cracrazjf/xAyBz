@@ -1,5 +1,0 @@
-{
-  "weights_format": "safetensors",
-  "weights_file": "model.safetensors",
-  "weights_sha256": "a6108826ac870d4f537497da5997ed3374d5fa7be6f6e4243f4cc568cd83e8d4"
-}
