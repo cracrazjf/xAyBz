@@ -132,6 +132,7 @@ dmypy.json
 *.tflite
 *.engine
 *.plan
+*.safetensors
 
 # Training artifacts
 runs/
